@@ -18,6 +18,27 @@ namespace Alex                   //При запуске нажимайте на
             I = h * s;
             Console.WriteLine(I);
         }
+        static void SortirovkaMassiva(int[] a)
+        {
+            int i, j, x;
+            for (i = 0; i < a.Length; i++)
+            {
+                for (j = 0; j < a.Length; j++)
+                {
+                    if (a[i] < a[j])
+                    {
+                        x = a[i];
+                        a[i] = a[j];
+                        a[j] = x;
+                    }
+                }
+            }
+            for (i = 0; i < a.Length; i++)
+            {
+                Console.Write(a[i] + " ");
+            }
+            Console.WriteLine();
+        }
         static string Reverse(string s)
         {
             string r = null;
