@@ -1,0 +1,10 @@
+C:\Users\Dante\AppData\Local\Temporary Projects\Alex\bin\Release\Alex.exe
+C:\Users\Dante\AppData\Local\Temporary Projects\Alex\bin\Release\Alex.pdb
+C:\Users\Dante\AppData\Local\Temporary Projects\Alex\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dante\AppData\Local\Temporary Projects\Alex\obj\Release\Alex.exe
+C:\Users\Dante\AppData\Local\Temporary Projects\Alex\obj\Release\Alex.pdb
+C:\Users\Dante\Documents\Visual Studio 2008\Projects\Alex\Alex\obj\Release\Alex.exe
+C:\Users\Dante\Documents\Visual Studio 2008\Projects\Alex\Alex\obj\Release\Alex.pdb
+C:\Users\Dante\Documents\Visual Studio 2008\Projects\Alex\Alex\bin\Release\Alex.exe
+C:\Users\Dante\Documents\Visual Studio 2008\Projects\Alex\Alex\bin\Release\Alex.pdb
+C:\Users\Dante\Documents\Visual Studio 2008\Projects\Alex\Alex\obj\Release\ResolveAssemblyReference.cache
