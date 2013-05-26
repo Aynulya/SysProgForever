@@ -72,6 +72,10 @@ namespace Alex                   //При запуске нажимайте на
             //Вычисление интеграла под кривой в интервале от -1 до 1.
             Integral(-1, 1);
             Console.ReadLine();
+            //Сортировка массива.
+            int[] m = { 10, 6, 2, 7, 8, 5, 1, 3, 4, 9, 0 };
+            SortirovkaMassiva(m);
+            Console.ReadLine();
             //Вывод строки задом наперед.
             string s;
             s = "Hello World, the most beautiful world ever";
