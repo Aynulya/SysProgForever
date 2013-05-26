@@ -8,3 +8,8 @@ C:\Users\Dante\Documents\Visual Studio 2008\Projects\Alex\Alex\obj\Release\Alex.
 C:\Users\Dante\Documents\Visual Studio 2008\Projects\Alex\Alex\bin\Release\Alex.exe
 C:\Users\Dante\Documents\Visual Studio 2008\Projects\Alex\Alex\bin\Release\Alex.pdb
 C:\Users\Dante\Documents\Visual Studio 2008\Projects\Alex\Alex\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dante\Documents\SysProg\SysProgForever\Alex\Alex\obj\Release\Alex.exe
+C:\Users\Dante\Documents\SysProg\SysProgForever\Alex\Alex\obj\Release\Alex.pdb
+C:\Users\Dante\Documents\SysProg\SysProgForever\Alex\Alex\bin\Release\Alex.exe
+C:\Users\Dante\Documents\SysProg\SysProgForever\Alex\Alex\bin\Release\Alex.pdb
+C:\Users\Dante\Documents\SysProg\SysProgForever\Alex\Alex\obj\Release\ResolveAssemblyReference.cache

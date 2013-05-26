@@ -18,11 +18,48 @@ namespace Alex                   //При запуске нажимайте на
             I = h * s;
             Console.WriteLine(I);
         }
-
+        static string Reverse(string s)
+        {
+            string r = null;
+            for (int i = s.Length - 1; i >= 0; i--)
+            {
+                r += s[i];
+            }
+            return r;
+        }
+        static int ProstoeChisloBolsheZadannogo(int a)
+        {
+            int b, k, p;
+            k = 0;
+            p = a;
+            while (true)
+            {
+                p++;
+                a = p;
+                b = p;
+                for (; a >= 1; a--)
+                {
+                    if (b % a == 0) k++;
+                }
+                if (k == 2) break;
+                else k = 0;
+            }
+            return b;
+        }
         static void Main(string[] args)
         {
             //Вычисление интеграла под кривой в интервале от -1 до 1.
             Integral(-1, 1);
+            Console.ReadLine();
+            //Вывод строки задом наперед.
+            string s;
+            s = "Hello World, the most beautiful world ever";
+            Console.WriteLine(Reverse(s));
+            Console.ReadLine();
+            //Минимальное простое число больше заданного.
+            int a;
+            a = 11;
+            Console.WriteLine(ProstoeChisloBolsheZadannogo(a));
             Console.ReadLine();
         }
     }
